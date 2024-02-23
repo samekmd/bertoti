@@ -20,7 +20,7 @@ Ao escolher uma tecnologia para desenvolver um projeto, é necessário saber que
 </strong>
 ##EXEMPLOS DE TRADE OFFICE
 
-- Site siga da Fatec(Fácil desenvolvimento, porém má qualidade do produto)
+- Site siga da Fatec (Fácil desenvolvimento, porém má qualidade do produto)
 
 - Nova IA Gemini (Avanço tecnológico absurdo em IA, porém podem causar dependência exagerada)
 
