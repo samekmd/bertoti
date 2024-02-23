@@ -13,7 +13,8 @@ Sendo um engenheiro de software, o mesmo precisa apresentar conhecimento básico
 futuro funcione bem, proporcionando assim maior qualidade e efiência no produto final desenvolvido.
 </p>
 Ao escolher uma tecnologia para desenvolver um projeto, é necessário saber que mesmo a tecnologia podendo ser ideal para o desenvolvimento do projeto, no futuro ainda sim será encontrados problemas a ser resolvidos, podendo se concluir que não existe uma tecnologia "perfeita" para produzir um produto, mas sim uma tecnologia ideal.
-
+<br>
+<br>
 
 <p>
 </strong>
