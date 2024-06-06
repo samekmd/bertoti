@@ -6,4 +6,35 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 
 <strong>##COMENTARIO
 
+<<<<<<< HEAD
 Baseado nessa introdução a engenharia de software, no texto lido acima, pode-se observar que a engenharia de software não é baseada apenas no conceito de programação, mas também em um aspecto mais estratégico, tendo que lidar com adversidades que podem prejudicar o tempo de finalização de um projeto.</strong>
+=======
+<p>Baseado nessa introdução a engenharia de software, no texto lido acima, pode-se observar que a engenharia de software não é baseada apenas no conceito de programação, mas também em um aspecto mais estratégico, tendo que lidar com adversidades que podem prejudicar o tempo de finalização de um projeto.
+</p>
+<p>
+Sendo um engenheiro de software, o mesmo precisa apresentar conhecimento básico nas tecnologias da atualidade, para assim poder desenvolver um projeto que no 
+futuro funcione bem, proporcionando assim maior qualidade e efiência no produto final desenvolvido.
+</p>
+Ao escolher uma tecnologia para desenvolver um projeto, é necessário saber que mesmo a tecnologia podendo ser ideal para o desenvolvimento do projeto, no futuro ainda sim será encontrados problemas a ser resolvidos, podendo se concluir que não existe uma tecnologia "perfeita" para produzir um produto, mas sim uma tecnologia ideal.
+<br>
+<br>
+
+<p>
+</strong>
+##EXEMPLOS DE TRADE OFFICE
+
+- Site siga da Fatec (Fácil desenvolvimento, porém má qualidade do produto)
+
+- Nova IA Gemini (Avanço tecnológico absurdo em IA, porém podem causar dependência exagerada)
+
+- Vision Pro Apple (Maior interatividade com a tecnologia, porém pode agravar ainda mais o vicío em tecnologia dos dias atuais)
+
+<strong>
+</p>
+
+
+
+
+
+</strong>
+>>>>>>> 41be3ed1ea603e828f201ee48939966ac26b6e90
