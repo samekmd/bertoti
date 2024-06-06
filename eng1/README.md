@@ -6,7 +6,7 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 
 <strong>##COMENTARIO
 
-<<<<<<< HEAD
+
 Baseado nessa introdução a engenharia de software, no texto lido acima, pode-se observar que a engenharia de software não é baseada apenas no conceito de programação, mas também em um aspecto mais estratégico, tendo que lidar com adversidades que podem prejudicar o tempo de finalização de um projeto.</strong>
 =======
 <p>Baseado nessa introdução a engenharia de software, no texto lido acima, pode-se observar que a engenharia de software não é baseada apenas no conceito de programação, mas também em um aspecto mais estratégico, tendo que lidar com adversidades que podem prejudicar o tempo de finalização de um projeto.
@@ -37,4 +37,3 @@ Ao escolher uma tecnologia para desenvolver um projeto, é necessário saber que
 
 
 </strong>
->>>>>>> 41be3ed1ea603e828f201ee48939966ac26b6e90
